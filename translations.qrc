@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>translations/vietnamese.qm</file>
+        <file>translations/qtbase_fr.qm</file>
+    </qresource>
+</RCC>
